@@ -11,7 +11,7 @@ This project serves as a demonstration of building a simple website using React 
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A fast build tool for modern web projects.
 - **React Router**: For handling navigation between pages.
-- **CSS**: For styling the components.
+- **CSS**: For styling the components..
 
 ## Features
 
