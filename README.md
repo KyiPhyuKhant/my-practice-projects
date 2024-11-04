@@ -21,10 +21,6 @@ This project serves as a demonstration of building a simple website using React 
 - **Contact Information/Form**: Basic contact page for users to reach out.
 - **Extendability**: Built to easily add more pages or features.
 
-## Branches
-
-The **main** branch contains the core project overview and foundational code. Other branches are dedicated to learning and practicing React and Vite concepts through a Udemy course, allowing for experimentation and skill development.
-
 ## License
 
 This project is licensed under the MIT License.
